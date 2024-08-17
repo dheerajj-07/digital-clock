@@ -80,3 +80,47 @@ body{
     font-size: 1.5vw;
     color: #F7E7DC;
 }
+
+
+@media (min-width: 320px) and (max-width: 650px) {
+    .container{
+        width: 70vw;
+        height: 90vw;
+        margin-top: 10vh;
+
+    }
+    #date{
+        font-size: 4.5vw;
+        margin-top: 5vw;
+        border-radius: 7px;
+    
+        
+    }
+
+    .time-cont{
+        margin-top: 5vw;
+        font-size: 7vw;
+    }
+    .time-bg{
+    
+        height: 12vw;
+        width: 10vw;
+    }
+    #day{
+        font-size: 6vw;
+        border-radius: 7px;
+        margin-top: 6vw;
+    }
+       
+    #am-pm{
+        margin-left: 3vw;
+        box-shadow: 0.5px 1px 2px 2px #F7E7DC;
+        height: 8vw;
+        font-size: 3vw;
+    }
+    .colon{
+        font-size: 4.5vw;
+        margin: 4px;
+    }
+    
+}
