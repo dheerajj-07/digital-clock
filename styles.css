@@ -19,7 +19,7 @@ body{
     height: 30vw;
     width: 40vw;
     background: linear-gradient(to right, #758694, #405D72);
-    background-color: #405D72;
+/*     background-color: #405D72; */
     display: flex;
     flex-direction: column;
     align-items: center;
